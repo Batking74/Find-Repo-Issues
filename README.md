@@ -1,6 +1,7 @@
 # Find Repo Issues
 
 ## Description
+This project utilizes the GitHub API to streamline tracking user repositories and their issues. Effortlessly navigate your GitHub landscape, gaining quick insights and enhancing efficiency in managing and staying informed about your projects.
 
 ![Image of Find Repo Project](./assets/Find-Repo-Issues-Project.png)
 
